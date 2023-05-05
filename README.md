@@ -1,9 +1,18 @@
-How It's Made:
+# Todo App
+Frontend app that allows you to track task.
 
-Tech used: Node.js, JavaScript, HTML, CSS, Heroku
+**Link to project:** https://ld-todo-app.netlify.app
 
-API flips a coin and stores 1 (for heads) and 0 (for tails). Async function is used (for practice, but not needed for program) to fetch JSON before client-side JS updates DOM - which includes starting the "flip" animations, and updating heads and tail counters on the client-side. Server is configured to deploy with Heroku
+<!-- ![alt tag](#) -->
 
-Lessons Learned:
+## How It's Made:
 
-Learned how to create a server, load resources, and build a simple API with a read only function in node.js.
+**Tech used:** React, JavaScript, HTML, CSS
+
+React used to create a basic web app that allows users to track tasks. 
+
+ <!-- ## Optimizations: -->
+
+## Lessons Learned:
+
+How to create a the UI of an app with React. Learned the different parts of a React app such as, functional and React components react fragments, states, hook, props. Learned how to pass functional components between child and parent components and how to add events.
